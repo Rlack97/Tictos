@@ -1,0 +1,6 @@
+[submodule "nft-ticket-smart-contract"]
+	path = nft-ticket-smart-contract
+	url = https://github.com/MAAAAE/nft-ticket-smart-contract
+[submodule "tictos"]
+	path = tictos
+	url = https://github.com/MAAAAE/tictos
